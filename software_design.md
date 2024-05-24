@@ -10,6 +10,7 @@ Within structured design, a low coupling between modules is desired to ensure a 
 - **Cohesion** refers to the degree in which different elements with a module interact with each other to perform a single purpose.
 In structured design, a high cohesion within modules is required to ensure each module focuses on closely related tasks making them more maintable.
 
+
 **2. What is the difference between top-down and bottom-up design? Which best describes a function oriented design?**
 
 - **Top-down design** begins with a high-level overview of the system with no details which gradually becomes refined with more detail and definitions until there is a sufficient amount of information to validate the model.
@@ -18,9 +19,11 @@ In structured design, a high cohesion within modules is required to ensure each 
 
 A function oriented design is best aligned with a bottom-up design approach.
 
+
 **3. In which design methodology would a class diagram be most useful?**
 
 A class diagram would be most useful in **object-oriented design** as this design methodology focuses on objects and classes. The class diagram would serve as a visual aid of the building blocks of the system.
+
 
 **4. What are the four pillars of object oriented programming? Give a single-sentence description of each.**
 
@@ -32,6 +35,7 @@ A class diagram would be most useful in **object-oriented design** as this desig
 
 **4. Abstraction** - simplifying complex systems by hiding an object's internal strcture by creating an abstract class and interface.
 
+
 **5. What is the strategy pattern? How would its implementation differ between a functional and object oriented system?**
 
 **The stragery pattern** is a behavioural design pattern allowing the alteration of an object's behaviour through encapsulation.
@@ -39,6 +43,7 @@ A class diagram would be most useful in **object-oriented design** as this desig
 **Object-oriented systems** use objects to represent stratergies therefore, to change stratergies we change objects and encapsulation occurs with classes.
 
 Whereas **functional systems** use functions to represent stratergies therefore, to change stratergies we change functions and encapsulation occurs with function scope.
+
 
 **6. Imagine your creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.**
 

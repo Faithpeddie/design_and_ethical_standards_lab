@@ -19,6 +19,7 @@ Perhaps ❗️
 
 BankingCorp should screen and monitor the loan company regularly to ensure they meet the correct legal and ethical standards. They should also provide customers the ability to close their account with a given notice period after them being informed of the updated terms and conditions. The customers data should also be made anonymous and de-identified to ensure customer privacy.
 
+
 ### Scenario 2
 **1. Is the company breaking any laws with their proposal?**
 
@@ -30,6 +31,7 @@ No ❌
 
 **3. What could the company do to address these issues?**
 The company of Treasure Hunters should de-monetize hints and not go ahead with the possibility of offering multi-buy discounts to ensure player welfare. The game could instead be monetized through advertisements (including rewarded ads). 
+
 
 ### Scenario 3
 **1. Is the company breaking any laws with their proposal?**
